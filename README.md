@@ -1,5 +1,12 @@
 # Complete React Material UI Tutorial - Introduction, Styling, Component and Theme.
 
+These is the demo project used to explaining Material UI topics like
+- Introduction
+- JSS Styling
+- Customization of Component and Theme.
+
+Complete videos in this series of React Materil UI : https://bit.ly/3k2tUSD
+
 ###### Before Running this Project
  1. Install npm packages using 'npm install' command from root folder
 
