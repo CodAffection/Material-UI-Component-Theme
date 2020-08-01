@@ -5,13 +5,21 @@
 
  # Step By Step Explanation
 
- Video Tutorial : https://youtu.be/bL-ZwwF6wTc
- 
+1. Material UI - Introduction & Styling with JSS.
 
+ Video Tutorial : https://youtu.be/bL-ZwwF6wTc
  
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=bL-ZwwF6wTc
 " target="_blank"><img src="http://img.youtube.com/vi/bL-ZwwF6wTc/0.jpg" 
-alt="Video Tutorial for Material UI- Introduction, Styling, Component and Theme" width="500" height="400" border="10" /></a>
+alt="Video Tutorial for Material UI- Introduction and JSS Styling" width="500" height="400" border="10" /></a>
+
+2. Material UI - Customization of Component and Theme
+
+ Video Tutorial : https://youtu.be/W-QasNYJ-3Y
+ 
+ <a href="http://www.youtube.com/watch?feature=player_embedded&v=W-QasNYJ-3Y
+" target="_blank"><img src="http://img.youtube.com/vi/W-QasNYJ-3Y/0.jpg" 
+alt="Video Tutorial for Material UI- Customization of  Component and Theme" width="500" height="400" border="10" /></a>
 
 
 # All Video Tutorial Series
